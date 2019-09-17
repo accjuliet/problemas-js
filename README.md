@@ -1,4 +1,4 @@
-# problemas-js
+# problemas-js by Julieta Navarro
 Problemas de programación básica hechos en Javascript
 
 1.- Hacer un programa que imprima los números del 1 al 100.
